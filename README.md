@@ -64,8 +64,8 @@
 
 BUG-07 ve BUG-08 Jira'da bug ticket'ı olarak raporlandı ve birbirine bağlandı (ikisi birlikte eksi tutarlı sipariş oluşturulmasına yol açıyor).
 
-![AE-1](jira/AE-1.png)
-![AE-2](jira/AE-2.png)
+![ae-1](ae1.png)
+![ae-2](ae2.png)
 
 ## Klasörler
 
